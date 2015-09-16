@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="15" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="map3" tilewidth="64" tileheight="64">
+  <image source="map3.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="layer" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAEnkC8E4hLoLQnFjUwddgwA1QvTE0XFC8F4mVQ8Z04zMSldysQbwPiLCBmQ8IuePRiwzuxqMXFRwbo/gtEc0ciGh/ZbZ5oNDrAZi+yP2B0ERAHo2FWPHphfvVEEqvE4YZKKEb2VyUDajogpLcSSQ8AyjkevA==
+  </data>
+ </layer>
+ <objectgroup name="object" width="15" height="10">
+  <object name="wuqi1" x="352" y="576" width="32" height="16"/>
+  <object name="wuqi2" x="416" y="576" width="32" height="16"/>
+  <object name="wuqi3" x="480" y="576" width="32" height="16"/>
+  <object name="wuqi4" x="544" y="576" width="32" height="16"/>
+  <object name="wuqi5" x="608" y="576" width="32" height="16"/>
+  <object name="begin" x="157" y="621" width="13" height="13"/>
+  <object name="tag1" x="157" y="467" width="13" height="13"/>
+  <object name="tag2" x="477" y="467" width="13" height="13"/>
+  <object name="begin2" x="29" y="211" width="13" height="13"/>
+  <object name="tag11" x="221" y="211" width="13" height="13"/>
+  <object name="tag12" x="221" y="339" width="13" height="13"/>
+  <object name="begin3" x="925" y="531" width="13" height="13"/>
+  <object name="tag21" x="797" y="531" width="13" height="13"/>
+  <object name="tag22" x="797" y="339" width="13" height="13"/>
+  <object name="tag13" x="477" y="339" width="13" height="13"/>
+  <object name="end" x="477" y="19" width="13" height="13"/>
+  <object name="end2" x="477" y="19" width="13" height="13"/>
+  <object name="end3" x="477" y="19" width="13" height="13"/>
+  <object name="tag3" x="477" y="339" width="13" height="13"/>
+  <object name="tag23" x="477" y="339" width="13" height="13"/>
+ </objectgroup>
+ <layer name="showLayer" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+SEaj8anDhonRi8scUuzFpReXm5D1k+I2XG7FZy8p9hCrlxR3UwoAlD0QPw==
+  </data>
+ </layer>
+</map>
